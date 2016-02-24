@@ -16,6 +16,8 @@
 -- change a thing.
 ----------------------------------------------------------------
 
+-- Behaviour changed to eminent behaviour. For example - switching from blank tag to next doesn't show next blank tag
+
 -- Grab environment
 local ipairs = ipairs
 local pairs = pairs
